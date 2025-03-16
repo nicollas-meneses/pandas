@@ -1,7 +1,3 @@
-Claro! Vou adicionar um pouco mais de estilo ao README, com seções mais destacadas e um toque mais profissional. Aqui está o modelo aprimorado:
-
----
-
 # 🏡 **Análise de Dados Imobiliários - Pandas**
 
 Este repositório contém scripts Python para análise e manipulação de dados imobiliários utilizando a biblioteca `pandas`. O código permite realizar tarefas como importação, visualização, manipulação e análise estatística de dados relacionados a imóveis na cidade de São Paulo.
@@ -86,5 +82,3 @@ Contribuições são bem-vindas! Se você tem sugestões ou melhorias para este 
 Este projeto está licenciado sob a Licença MIT.
 
 ---
-
-Esse modelo de README foi aprimorado com seções bem organizadas e emojis para tornar o visual mais agradável e fácil de ler. Se precisar de mais personalizações ou ajustes, só avisar!
